@@ -9,8 +9,9 @@ My work spans platform architecture, networking, security, and
 operational governance, with a focus on systems that are predictable
 under load, resilient by design, and trusted during audits.
 
+<hr style="border:0;border-top:1px solid #d0d7de;" />
 
-## Core Platform Scope
+## Areas of Platform Scope & Ownership
 
 ### Multi-Cloud & Platform Foundations
 - Enterprise-scale platforms across AWS, Google Cloud, and Azure
@@ -54,7 +55,7 @@ under load, resilient by design, and trusted during audits.
 - Secure data access patterns for model training and inference
 - Isolation and governance for AI workloads in regulated environments
 
-## Platform Design Principles
+### Platform Design Principles
 - Security and cyber controls embedded into the platform by default
 - Strong environment, network, and blast-radius isolation
 - Automation used as a governance and risk-control mechanism
@@ -62,7 +63,7 @@ under load, resilient by design, and trusted during audits.
 - Architectures optimised for auditability, resilience, and cost efficiency
 - Designs focused on long-term operability over short-term optimisation
 
-## Selected Platform Architectures
+### Selected Platform Architectures
 - Multi-cloud enterprise landing zones with identity, network, and policy guardrails
 - Kubernetes platforms designed for HA, multi-cluster operations, and isolation
 - Secure hybrid and regulated workload platforms

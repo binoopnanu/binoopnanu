@@ -1,7 +1,10 @@
 # Binoop Nanu
 
+## Principal Cloud & Platform Engineer | Platform Architecture
 
-Principal Cloud and Platform Engineer with over 15 years of experience designing, building, and operating
-highly secure, scalable cloud platforms across AWS, Google Cloud Platform, and Microsoft Azure.
+I design and operate secure, large-scale cloud platforms across
+AWS, Google Cloud, and Azure for regulated enterprise environments.
 
-Proven track record delivering platforms for high-growth startups, AI-driven organisations, federal government environments, and tier-1 financial institutions, including IRAP-assessed and other highly regulated contexts.
+My work spans platform architecture, security, and operational
+governance, with a focus on systems that are predictable under load
+and trusted during audits.

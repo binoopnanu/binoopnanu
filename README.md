@@ -1,7 +1,5 @@
 # Binoop Nanu
 
-<hr style="border:0;border-top:1px solid #d0d7de;" />
-
 ## Principal Cloud & Platform Engineer | Platform Architecture
 
 I design and operate secure, large-scale cloud platforms across

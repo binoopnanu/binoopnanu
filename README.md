@@ -1,5 +1,5 @@
-# binoopnanu
-Professional Summary
+# Binoop Nanu
+
 
 Principal Cloud and Platform Engineer with over 15 years of experience designing, building, and operating
 highly secure, scalable cloud platforms across AWS, Google Cloud Platform, and Microsoft Azure.

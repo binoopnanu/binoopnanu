@@ -9,6 +9,10 @@ My work spans platform architecture, networking, security, and
 operational governance, with a focus on systems that are predictable
 under load, resilient by design, and trusted during audits.
 
+I have built and operated platforms across AI startups, top-tier
+banking, government, healthcare, and consulting, adapting to both
+regulated and fast-moving environments.
+
 
 ## Areas of Platform Scope & Ownership
 

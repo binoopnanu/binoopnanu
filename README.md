@@ -1,6 +1,6 @@
 # Binoop Nanu
 
-## Principal Cloud & Platform Engineer | Platform Architecture
+## Cloud & Platform Engineer | Platform Architecture
 
 I design and operate secure, large-scale cloud platforms across
 AWS, Google Cloud, and Azure for regulated enterprise environments.

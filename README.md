@@ -58,17 +58,12 @@ to both regulated and fast-moving environments.
 - Secure data access patterns for model training and inference
 - Isolation and governance for AI workloads in regulated environments
 
-### Platform Design Principles
-- Security and cyber controls embedded into the platform by default
-- Strong environment, network, and blast-radius isolation
-- Automation used as a governance and risk-control mechanism
-- Opinionated defaults with clearly defined exception paths
-- Architectures optimised for auditability, resilience, and cost efficiency
-- Designs focused on long-term operability over short-term optimisation
-
-### Selected Platform Architectures
-- Multi-cloud enterprise landing zones with identity, network, and policy guardrails
-- Kubernetes platforms designed for HA, multi-cluster operations, and isolation
-- Secure hybrid and regulated workload platforms
-- Platform CI/CD architectures with policy enforcement and traceability
-- Data and AI platforms aligned with governance and regulatory controls
+## Certifications
+- Certified Kubernetes Security Specialist (CKS)
+- Certified Kubernetes Administrator (CKA)
+- Certified Kubernetes Application Developer (CKAD)
+- HashiCorp Certified Terraform Associate
+- AWS Certified Solutions Architect – Professional
+- AWS Certified DevOps Engineer – Professional
+- Google Cloud Certified – Professional Cloud Architect
+- Microsoft Certified: Azure Fundamentals (AZ-900)
